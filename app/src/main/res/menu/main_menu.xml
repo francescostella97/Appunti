@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_magnify_white_24dp">
+
+    </item>
+    <item
+        android:id="@+id/menu_layout_type"
+        android:title="Visualization"
+        app:showAsAction="always" android:orderInCategory="100"
+        android:icon="@drawable/ic_view_quilt_white_24dp"/>
+    <item
+        android:id="@+id/menu_sort"
+        android:title="Descending"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_sort_ascending_white_24dp">
+
+    </item>
+</menu>

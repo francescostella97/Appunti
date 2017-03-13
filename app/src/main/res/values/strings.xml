@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Appunti</string>
+    <string name="title_hint">Title</string>
+    <string name="body_hint">Description</string>
+    <string name="date_hint">Due Date</string>
+    <string name="to_do_hint">To do</string>
+    <string name="done_hint">Done</string>
+    <string name="search_hint">Search something</string>
+    <!-- shared preferences-->
+    <string name="preferred_layout">PREFERRED LAYOUT</string>
 </resources>
